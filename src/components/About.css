@@ -1,0 +1,112 @@
+*
+{
+ margin: 0;
+ padding: 0;
+ font-family: sans-serif;
+ box-sizing: border-box;
+}
+.ethic{
+  position: relative;
+}
+.ethic h1{
+  text-align: center;
+  margin: 30px;
+  font-size: 50px;
+}
+.ethic .img_box{ 
+position: relative;
+margin-bottom: 50px;
+background-color: #b89e9e;
+}
+.ethic .img_box_2{ 
+  position: relative;
+  margin-bottom: 50px;
+  background-color: #b89e9e;
+  }
+  .ethic .img_box_3{ 
+    position: relative;
+    margin-bottom: 50px;
+    background-color: #22c610;
+    }
+.ethic .img_box img{
+    width: 100%;
+  height: 400px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: block;
+  
+}
+.ethic .img_box_2 img{
+  width: 100%;
+height: 400px;
+padding-left: 30px;
+padding-right: 30px;
+display: block;
+}
+.ethic .img_box_3 img{
+  width: 100%;
+height: 400px;
+padding-left: 30px;
+padding-right: 30px;
+display: block;
+}
+
+.ethic .img_box h3{
+    
+  position: absolute;
+  top: 60px;
+ left: 620px;
+  color: #9a9a9a;
+  
+}
+.ethic .img_box_2 h3{
+    
+  position: absolute;
+  top: 60px;
+ left: 620px;
+  /* color: #945151; */
+  color: white;
+  
+}
+.ethic .img_box_3 h3{
+    
+  position: absolute;
+  top: 60px;
+ left: 500px;
+  color: white;
+  
+}
+.ethic .img_box .contant p{
+  position: absolute;
+  width: 500px;
+  text-align:justify;
+  color:#0000ff;
+  top: 150px;
+  left: 580px;
+  font-size: 18px;
+}
+.ethic .img_box_2 .contant p{
+  position: absolute;
+  width: 500px;
+  text-align:justify;
+  /* color:#945151; */
+  color: white;
+  top: 150px;
+  left: 580px;
+  font-size: 18px;
+}
+.ethic .img_box_3 .contant p{
+  position: absolute;
+  width: 500px;
+  text-align:justify;
+  color:white;;
+  top: 150px;
+  left: 550px;
+  font-size: 18px;
+}
+.ethic .img_box_2 .contant p span{
+  
+  font-size: 20px;
+color: white;
+  text-shadow: 0px 2px 0px rgb(187, 178, 178);
+}
